@@ -1,0 +1,26 @@
+
+   html{
+    background-color: #49C6E5;
+   }
+
+.titl{
+    text-align: center;
+ 
+}
+.div1{text-align: center;
+    background-color: #49C6E5;
+color: #FFFBFA;}
+
+
+.boxshadow{
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+}
+.postcard{
+text-align: center;
+  box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+  color: #FFFBFA;
+  
+}
+.wholepost{
+    margin-bottom: 500px;
+}
